@@ -9,7 +9,7 @@
 Kenji Kashima, *Systems Control Theory and Statistical Machine Learning*, Morikita Publishing Co., Ltd., 2025
 - 目次　[一覧](./TOC.md)，[まえがき](https://note.com/morikita/n/necd5dff91e69)
 
-<img src="https://www.morikita.co.jp/storage/images/cvr/061481cvr.jpg" width="200">   <img src="./chapters.png" width="400">
+<img src="./cover.png" width="200">   <img src="./chapters.png" width="400">
 
   
 
